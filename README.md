@@ -108,6 +108,15 @@ contact rico@rtech-consulting.com.
 - `tiers/`: tier notes
 - `docs/images/`: README images
 
+## How it was built
+
+Minutes and Actions started on 2026-07-15 as an AI skill that turned meeting
+notes into minutes and a ledger. An internal review on 2026-08-11 found the
+ledger judged nothing, which led to the aging report and the repeat flag.
+Three rounds of simulated buyers, a tested aging engine and a review by a
+second model family followed. The build story has the dates, the decisions
+and what did not work: [docs/BUILD-STORY.md](docs/BUILD-STORY.md).
+
 ## Project status
 
 Experimental. Current: **1.1.4** (2026-08-17). The install has been checked in the Claude app and
